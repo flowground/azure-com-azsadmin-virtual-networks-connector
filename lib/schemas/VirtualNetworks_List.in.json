@@ -1,0 +1,29 @@
+{
+    "type": "object",
+    "properties": {
+        "subscriptionId": {
+            "required": true,
+            "type": "string"
+        },
+        "api_version": {
+            "required": true,
+            "type": "string",
+            "default": "2015-06-15"
+        },
+        "_filter": {
+            "type": "string"
+        },
+        "_orderBy": {
+            "type": "string"
+        },
+        "_top": {
+            "type": "string"
+        },
+        "_skip": {
+            "type": "string"
+        },
+        "_inlineCount": {
+            "type": "string"
+        }
+    }
+}
