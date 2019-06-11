@@ -5,7 +5,7 @@
 A generated **flow**ground connector for the NetworkAdminManagementClient API (version 2015-06-15).
 
 Generated from: https://api.apis.guru/v2/specs/azure.com/azsadmin-VirtualNetworks/2015-06-15/swagger.json<br/>
-Generated at: 2019-05-07T17:37:36+03:00
+Generated at: 2019-06-11T18:13:44+03:00
 
 ## API Description
 
